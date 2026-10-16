@@ -1,4 +1,9 @@
-python-telegram-bot
-Pyrogram
-TgCrypto
+telethon
+pyrogram
+tgcrypto
+yt-dlp
 requests
+aiohttp
+python-telegram-bot
+spotipy
+python-dotenv
